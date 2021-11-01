@@ -1,9 +1,10 @@
-# syntax error
-print(Hello world)
 
-# runtime error
-10 * (2/0)
 
-# semantic error
-name = "Alice"
+print("Hello World")
+
+
+10 * (2/2)
+
+
+Name=("Alice")
 print("Hello name")
