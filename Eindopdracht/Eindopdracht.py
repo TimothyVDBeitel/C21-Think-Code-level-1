@@ -1,4 +1,4 @@
-#ik ga het gsprek langer maken.
+#ik ga het gesprek langer maken.
 print("Hi!")
 name = input("What's your name? ")
 
